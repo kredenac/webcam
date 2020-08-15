@@ -1,2 +1,2 @@
 # webcam
-Playing around with opencv and webcam
+Playing with opencv by showing a kitten on top of a tracked object from webcam
